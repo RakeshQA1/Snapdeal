@@ -1,3 +1,4 @@
 1. Snapdeal login 
 2. Snapdeal Purchase 
 3. Snapdeal cart 
+4.Adding Payment Deatails 
