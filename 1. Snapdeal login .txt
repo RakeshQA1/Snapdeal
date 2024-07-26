@@ -1,0 +1,3 @@
+1. Snapdeal login 
+2. Snapdeal Purchase 
+3. Snapdeal cart 
